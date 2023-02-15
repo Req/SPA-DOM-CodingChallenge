@@ -1,17 +1,6 @@
 # Coding challenge!
 
-Create a HTML file using this as the body (don't fix the bugs!):
-
-```html
-    <main>
-        <h1>Cool website</h1>
-        <article>
-            <h2>Only...</h2>
-            <p>This element is broken
-        </article>
-    </main>
-    <div id="output">
-```
+Work with index.js - do not edit index.html at all :)
 
 - Create a function called `printr` that takes in an element
 - `printr` should console.log the element tag name
